@@ -1,4 +1,6 @@
-<h2 align="left">Hi! My name is Anass and I'm a Full-Stack and AI Developer, from Morocco.</h2>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&section=header&reversal=false&text=Anass%20Boutaib&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=33&stroke=-&animation=fadeIn&desc=Full-Stack%20and%20AI%20Developer&descSize=24&descAlign=50&descAlignY=48&textBg=false&color=gradient"  />
+</div>
 
 ###
 
